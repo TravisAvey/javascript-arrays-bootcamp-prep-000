@@ -20,3 +20,6 @@ function addElementToEndOfArray(array, ele) {
   return arr;
 }
 
+function destructivelyAddElementToEndOfArray(array, ele) {
+  
+}
